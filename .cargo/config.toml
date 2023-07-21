@@ -1,2 +1,2 @@
 [build]
-rustflags = "-Zwhoa"
+rustflags="-Clink-arg=-Wl,--no-undefined-version"
