@@ -1,0 +1,2 @@
+[workspace]
+members = ["ext_lib", "pm"]
